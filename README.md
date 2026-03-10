@@ -1,6 +1,4 @@
-# Project Name 
-
-Behaviour-Adaptive Task Scheduler
+# Behaviour-Adaptive Task Scheduler 🧠📚
 
 ## Project Description 
 
