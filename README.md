@@ -3,7 +3,7 @@
 ## Project Description 
 
 This project is a command line interface task scheduler. Implemented with the intention
-to eradicate to the greatest extent the habit of procastination throughout the life of a student.
+to eradicate to the greatest extent the habit of procrastination throughout the life of a student.
 This is done by scheduling and prioritizing tasks based on deadlines, difficulty and task duration through 
 user behaviour patterns. The systems also adapts over time, by tracking whether previous tasks have been 
 completed, skipped or postponed, and adjusts the priority order for future tasks.
